@@ -27,9 +27,13 @@ Affine Structure from Motion and Projective Structure from Motion are two differ
 
 ## Usage
 
-1. Download the file ```Affine_SfM.ipynb``` and open it on your local Google Colab
+* Clone the repo to your local machine
+```
+git clone https://github.com/HemanthJoseph/Affine-Structure-from-Motion.git
+```
+* Download the file ```Affine_SfM.ipynb``` and open it on your local Google Colab
 
-2. Run each cell as per the instruction
+* Run each cell as per the instruction
 
 ## Dependencies
 
